@@ -1,9 +1,6 @@
 # 👋 Sobre mí
 
-Soy estudiante avanzado de programación con enfoque en **desarrollo backend** y conocimientos en frontend.  
-He desarrollado **aplicaciones de escritorio** con .NET y **aplicaciones web** utilizando .NET, Angular y Java.  
-
-Estoy comprometido con el aprendizaje continuo y la aplicación de buenas prácticas de desarrollo en todos mis proyectos.
+Desarrollador Backend Junior enfocado en el diseño y construcción de **APIs REST** y arquitectura de software. Sólidos conocimientos en **.NET (C#)** y **Java (Spring Boot)**, con capacidad para desarrollar soluciones integrales gracias a mi experiencia complementaria en **Angular** y bases de datos **SQL Server/PostgreSQL**.
 
 ---
 # 🚀 Stack Tecnológico
@@ -11,6 +8,11 @@ Estoy comprometido con el aprendizaje continuo y la aplicación de buenas práct
 ## Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Moq](https://img.shields.io/badge/Moq-blueviolet?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
@@ -28,13 +30,13 @@ Estoy comprometido con el aprendizaje continuo y la aplicación de buenas práct
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ## Herramientas y Desarrollo
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 ## 📫 Contacto
