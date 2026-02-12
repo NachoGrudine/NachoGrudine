@@ -1,6 +1,7 @@
 # 👋 Sobre mí
 
-Desarrollador Backend Junior enfocado en el diseño y construcción de **APIs REST** y arquitectura de software. Sólidos conocimientos en **.NET (C#)** y **Java (Spring Boot)**, con capacidad para desarrollar soluciones integrales gracias a mi experiencia complementaria en **Angular** y bases de datos **SQL Server/PostgreSQL**.
+Desarrollador Backend Junior enfocado en el diseño y construcción de APIs REST y arquitectura de software. Formación sólida en .NET (C#) y Java (Spring Boot), con capacidad para desarrollar soluciones end-to-end gracias a conocimientos complementarios en Angular y bases de datos relacionales.
+
 
 
 ---
